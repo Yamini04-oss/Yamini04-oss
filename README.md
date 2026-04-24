@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Yamini 👋<br>An engineering student passionate about building impactful tech solutions and exploring real-world applications of software.<br><br>🌱 Currently learning: Full-stack development, AI, and open-source collaboration<br><br>💡 Interested in: Artificial Intelligence, Computer Vision, and scalable systems<br><br>🚀 Working on: An AI-powered credit appraisal system and an agriculture startup<br><br>🤝 Actively contributing to open-source and preparing for GSoC 2026<br><br>🛠️ Tech Stack:<br><br>Languages: Python, JavaScript,Java, C++<br><br>Tools: Git, Docker, Linux (WSL), Scilab<br><br>Frameworks: React, Node.js (learning & building
+Hi, I'm Yamini 👋<br>An engineering student passionate about building impactful tech solutions and exploring real-world applications of software.<br><br>🌱 Currently learning: Full-stack development, AI, and open-source collaboration<br><br>💡 Interested in: Artificial Intelligence, Computer Vision, and scalable systems<br><br>🚀 Working on: An AI-powered credit appraisal system and an agriculture startup<br><br>🤝 Actively contributing to open-source and preparing for GSoC 2026<br><br>🛠️ Tech Stack:<br><br>Languages: Python, JavaScript,Java, C++<br><br>Tools: Git, Docker, Linux (WSL), Scilab<br><br>Frameworks: React, Node.js (learning & building)
 
 
 ## 🌐 Socials:
